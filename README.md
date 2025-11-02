@@ -21,3 +21,15 @@ https://www.youtube.com/watch?v=FtbtFEn86Eg \
 https://www.youtube.com/watch?v=72_P95ue_KI 
 
 '''第二周 上課影片
+
+'''第三周 上課影片
+
+'''第四周 上課影片
+
+'''第五周 上課影片
+
+'''第六周 上課影片
+
+'''第七周 上課影片
+
+'''第八周 上課影片
