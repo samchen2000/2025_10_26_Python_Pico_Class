@@ -1,3 +1,8 @@
+### 安裝Cursor
+1. 安裝網址 :
+https://cursor.com/zh-Hant/download  
+
+
 ### 在 Raspberry Pi 上安裝 MQTT Broker
 1. 在開始之前，先更新套件：
 ```
@@ -26,3 +31,14 @@ mosquitto_sub -h localhost -t test/topic
 ```
 mosquitto_pub -h localhost -t test/topic -m "Hello from Raspberry Pi!"
 ```
+
+### 安裝 MQTTX
+1. 安裝網址: 
+https://mqttx.app/downloads
+
+### 老師推薦安裝 Affinity & Canva
+1. 安裝網址 : (Affinity)
+https://www.affinity.studio/get-affinity
+
+2. 使用網址 : (Canva)
+https://www.canva.com/zh_tw/
