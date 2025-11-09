@@ -1,0 +1,7 @@
+[project]
+name = "raspi-pico"
+version = "0.1.0"
+description = "這是我使用樹莓派與pico整合的專案"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
