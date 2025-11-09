@@ -29,6 +29,11 @@ https://www.youtube.com/watch?v=aiEyh41RFiU
 https://youtube.com/live/EMZL9dDUEdg
 
 '''第三周 上課影片
+2025_11_09_上午
+https://www.youtube.com/watch?v=x0sI4_AcLWo
+
+2025_11_09_下午
+https://www.youtube.com/watch?v=HIPI3zy3pDA
 
 '''第四周 上課影片
 
