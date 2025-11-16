@@ -36,6 +36,11 @@ https://www.youtube.com/watch?v=x0sI4_AcLWo
 https://www.youtube.com/watch?v=HIPI3zy3pDA
 
 '''第四周 上課影片
+2025_11_16_上午
+https://www.youtube.com/watch?v=JQsPMLjWtAY
+
+2025_11_16_下午
+https://www.youtube.com/watch?v=fqbOCdD-1Qk
 
 '''第五周 上課影片
 
