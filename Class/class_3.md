@@ -52,3 +52,7 @@ uv add requests
 ```
 uv run python script.py
 ```
+跳出虛擬環境
+```
+deactivate
+```
