@@ -14,4 +14,4 @@ https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 https://thonny.org/
 
 
-1. 
+1. 在 Thonny 
