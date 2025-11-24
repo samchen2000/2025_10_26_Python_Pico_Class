@@ -6,7 +6,7 @@ math = int(input("數學分數"))
 print(type(math))
 
 total = chinese + english + math
-print("總分 : ", total, "分", set = "__")
+print("總分 : ", total, "分", sep = "__")
 average = round(total / 3, ndigits=2)
 print("平均 : ", average, "分", sep="---")
 

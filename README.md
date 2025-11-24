@@ -12,40 +12,41 @@ PW : A590301AA
 SSOD : F602-12-wifi
 PW : raspberry
 
-'''第一周 上課影片
+# 第一周 上課影片
 
 ## 2025_10_26_上午
-https://www.youtube.com/watch?v=FtbtFEn86Eg \
+https://www.youtube.com/watch?v=FtbtFEn86Eg 
 
 ## 2025_10_26_下午
 https://www.youtube.com/watch?v=72_P95ue_KI 
 
-'''第二周 上課影片
-
+# 第二周 上課影片
 ## 2025_11_02_早上
 https://www.youtube.com/watch?v=aiEyh41RFiU
 
 ## 2025_11_02_下午
 https://youtube.com/live/EMZL9dDUEdg
 
-'''第三周 上課影片
-2025_11_09_上午
+# 第三周 上課影片  
+## 2025_11_09_上午  
 https://www.youtube.com/watch?v=x0sI4_AcLWo
 
-2025_11_09_下午
+## 2025_11_09_下午  
 https://www.youtube.com/watch?v=HIPI3zy3pDA
 
-'''第四周 上課影片
-2025_11_16_上午
+# 第四周 上課影片  
+## 2025_11_16_上午  
 https://www.youtube.com/watch?v=JQsPMLjWtAY
 
-2025_11_16_下午
+## 2025_11_16_下午  
 https://www.youtube.com/watch?v=fqbOCdD-1Qk
 
-'''第五周 上課影片
+# 第五周 上課影片
+## 2025_11_23__早上
+https://www.youtube.com/watch?v=70p1xbP8wSk
 
-'''第六周 上課影片
+# 第六周 上課影片
 
-'''第七周 上課影片
+# 第七周 上課影片
 
-'''第八周 上課影片
+# 第八周 上課影片
